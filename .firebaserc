@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyecto-ejemplo-fb": {
+      "hosting": {
+        "proyecto-ejemplo": [
+          "proyecto-ejemplo-fb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyecto-ejemplo-fb"
+  }
+}
